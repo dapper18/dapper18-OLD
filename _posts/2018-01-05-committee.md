@@ -1,5 +1,5 @@
 ---
-title: "Committees"
+title: "Committee"
 bg: BurlyWood 
 color: black
 fa-icon: users

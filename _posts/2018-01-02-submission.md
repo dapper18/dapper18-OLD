@@ -1,5 +1,5 @@
 ---
-title: "Papers"
+title: "Submission"
 bg: SteelBlue
 color: white
 fa-icon: file-text-o
