@@ -21,5 +21,5 @@ All papers must be submitted through Easychair at:
 
 [https://easychair.org/conferences/?conf=dapper18](https://easychair.org/conferences/?conf=dapper18)
 
-Accepted submissions will be invited to present a talk at the workshop but will
-not be published in any proceedings.
+A few selected accepted papers that describe unpublished work will be invited to submit to a special issue of [
+The International Journal of High Performance Computing Applications](http://journals.sagepub.com/home/hpc).
