@@ -8,7 +8,9 @@ fa-icon: file-text-o
 ## Call for Papers
 
 We solicit 8-page full papers as well as 4-page short papers that focus on
-techniques at the intersection of parallel performance and data analytics.
+techniques at the intersection of parallel performance and data analytics. The
+8-page full papers should describe original unpublished work, while 4-page short
+papers can be original unpublished work, ongoing work, or past work.
 
 Papers must be submitted in PDF format (readable by Adobe Acrobat Reader 5.0
 and higher) and formatted for 8.5" x 11" (U.S. Letter). Submissions are limited
