@@ -15,9 +15,13 @@ fa-icon: users
 
 Jose Luis Bosque, University of Cantabria\\
 Dmitry Duplyakin, University of Utah\\
+Mathieu Faverge, INRIA Bordeaux\\
 Dario Garcia, Barcelona Supercomputing Center\\
 Markus Geimer, J&uuml;lich Supercomputing Center\\
+Vitus Leung, Sandia National Laboratories\\
+Cristiano Malossi, IBM Research\\
 Aniruddha Marathe, Lawrence Livermore National Laboratory\\
 Xiang Ni, IBM Research\\
 Jayaraman J. Thiagarajan, Lawrence Livermore National Laboratory\\
+Abhinav Vishnu, AMD Research\\
 Matthias Weber, TU Dresden
